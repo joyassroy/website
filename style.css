@@ -1,0 +1,36 @@
+ul {
+    color: yellow;
+
+}
+span {
+  background-color: red;
+}
+
+#jb{
+    background-color: red;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.blog{
+    background-color: greenyellow;
+    
+    border:3px solid #f70606;
+    border-radius:5px;
+    padding:10px 20px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px blue;
+    font-family:'Times New Roman', Times, serif;
+}
+.union{
+    font-weight: 800;
+}
+
+*{
+    margin: 7px;
+}
+
+input[type="password"]{
+    color: red;
+}
